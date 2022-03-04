@@ -12,7 +12,6 @@
 * [Практические работы за 3 курс .Net](https://github.com/Htomsik/Praktika3Kurs)
 * [Практические работы за 4 курс .Net](https://github.com/Htomsik/Praktika4Kurs)
 * [Практические работы за 4 курс JS](https://github.com/Htomsik/Praktika4Kurs)
-* [Список покупок .Net](https://github.com/Htomsik/Spisok)
 ---
 ## С чем работал
 
