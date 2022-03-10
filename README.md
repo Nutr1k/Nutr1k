@@ -12,6 +12,7 @@
 * [Практические работы за 3 курс .Net](https://github.com/Htomsik/Praktika3Kurs)
 * [Практические работы за 4 курс .Net](https://github.com/Htomsik/Praktika4Kurs)
 * [Практические работы за 4 курс JS](https://github.com/Htomsik/Praktika4Kurs)
+* [Список покупок .Net](https://github.com/Htomsik/Spisok)
 ---
 ## С чем работал
 
@@ -21,10 +22,15 @@
 * MVVM (в wpf проектах)
 * Entity framework 
 * Базовая работа с JS форматом
+* WCF
+* ASP.NET Core Web App
+* ASP.NET Core SignalR
 
->Всегда использовал свою простую mvvm основну (базовые viemodel + comamds + иногда шины сообщений).
+>Всегда использовал свою простую mvvm основну (базовые viemodel + comamds).
 >
 >Entity framework использовал на уровне прямого подключения к локальной базе и к базе на серверах AZURE.
+>
+>Использовал размещение WCF служб на серверах AZURE.
 
 
  ![.JS](https://img.shields.io/badge/-JS+HTML-1C1C22?style=for-the-badge&logo=nodedotjs&color=32409A)
@@ -43,7 +49,7 @@
 
 > В рамках инициативы преподавателя проходили обучающий курс по командам гита, но в основном пользовался им через VS
 
- ![SQl](https://img.shields.io/badge/-SQL-1C1C22?style=for-the-badge&logo=Mysql&color=32409A)
+ ![SQl](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=32409A)
 * Простые запросы (select, delete, update и тд.)
 * Написание вложенных запросов
 * Написание Join запросов
@@ -81,5 +87,5 @@
 ## **Ремарка**
  ### Все сказанное выше относится и к моему партнеру по практическим работам:
 
-[![Костя](https://img.shields.io/badge/-Костя-1C1C22?style=for-the-badge&logo=vk&logoColor=red)](https://vk.com/jessnjake)
+[![Константин](https://img.shields.io/badge/-Константин-1C1C22?style=for-the-badge&logo=vk&logoColor=red)](https://vk.com/jessnjake)
 
