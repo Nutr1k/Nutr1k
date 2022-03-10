@@ -49,7 +49,7 @@
 
 > В рамках инициативы преподавателя проходили обучающий курс по командам гита, но в основном пользовался им через VS
 
- ![SQl](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=32409A)
+ ![T-SQl](https://img.shields.io/badge/-SQL-1C1C22?style=for-the-badge&logo=Mysql&color=32409A)
 * Простые запросы (select, delete, update и тд.)
 * Написание вложенных запросов
 * Написание Join запросов
