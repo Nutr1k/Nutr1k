@@ -14,6 +14,9 @@
 * [Практические работы за 4 курс JS](https://github.com/Code-Nostra/Praktika4Kurs)
 * [Список покупок .Net](https://github.com/Code-Nostra/Spisok)
 ---
+## Языки программирования
+* С#
+
 ## С чем работал
 
  ![.Net](https://img.shields.io/badge/-Framework-1C1C22?style=for-the-badge&logo=.net&color=32409A)
