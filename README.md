@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/Htomsik/Htomsik/main/Assets/collage.png)
+![Logo](https://raw.githubusercontent.com/Code-Nostra/Code-Nostra/main/Assets/collage.png)
 ## Краткая сводка
 
  *Имя:* Артём
@@ -8,11 +8,11 @@
  
 ---
 ## Проекты
-* Курсовая-Дипломная работа [Месенджер LiteCall](https://github.com/Htomsik/LiteCall)
-* [Практические работы за 3 курс .Net](https://github.com/Htomsik/Praktika3Kurs)
-* [Практические работы за 4 курс .Net](https://github.com/Htomsik/Praktika4Kurs)
-* [Практические работы за 4 курс JS](https://github.com/Htomsik/Praktika4Kurs)
-* [Список покупок .Net](https://github.com/Htomsik/Spisok)
+* Курсовая-Дипломная работа [Месенджер LiteCall](https://github.com/Code-Nostra/LiteCall)
+* [Практические работы за 3 курс .Net](https://github.com/Code-Nostra/Praktika3Kurs)
+* [Практические работы за 4 курс .Net](https://github.com/Code-Nostra/Praktika4Kurs)
+* [Практические работы за 4 курс JS](https://github.com/Code-Nostra/Praktika4Kurs)
+* [Список покупок .Net](https://github.com/Code-Nostra/Spisok)
 ---
 ## С чем работал
 
