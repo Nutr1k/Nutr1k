@@ -22,7 +22,7 @@
  ![.Net](https://img.shields.io/badge/-Framework-1C1C22?style=for-the-badge&logo=.net&color=32409A)
 * Winforms
 * WPF
-* MVVM (в wpf проектах)
+* MVVM (в WPF проектах)
 * Entity framework 
 * Базовая работа с JS форматом
 * WCF
@@ -31,9 +31,9 @@
 
 >Всегда использовал свою простую mvvm основну (базовые viemodel + comamds).
 >
->Entity framework использовал на уровне прямого подключения к локальной базе и к базе на серверах AZURE.
+>Entity framework использовал на уровне прямого подключения к локальной базе и к базе на серверах Azure.
 >
->Использовал размещение WCF служб на серверах AZURE.
+>Использовал размещение WCF служб на серверах Azure.
 
 
  ![.JS](https://img.shields.io/badge/-JS+HTML-1C1C22?style=for-the-badge&logo=nodedotjs&color=32409A)
