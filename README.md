@@ -26,7 +26,7 @@
 * Entity framework 
 * Базовая работа с JS форматом
 * WCF
-* ASP.NET Core Web App
+* ASP.NET Core
 * ASP.NET Core SignalR
 
 >Всегда использовал свою простую mvvm основну (базовые viemodel + comamds).
