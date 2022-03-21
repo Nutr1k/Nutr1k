@@ -17,7 +17,7 @@
 ## Языки программирования
 * С#
 
-## С чем работал
+## Навыки
 
  ![.Net](https://img.shields.io/badge/-Framework-1C1C22?style=for-the-badge&logo=.net&color=32409A)
 * Winforms
