@@ -5,8 +5,8 @@
  *Имя:* Артём
 
  *Место обучения: 
- * (4 курс)* [Колледж информатики и программирования Финансового университета при Правительстве Российской Федерации](http://www.fa.ru/org/spo/kip/Pages/Home.aspx)
- * (1 курс)* [Moscow Technical University of Communications and Informatics (MTUCI)](https://mtuci.ru/)
+ * (4 курс) [Колледж информатики и программирования Финансового университета при Правительстве Российской Федерации](http://www.fa.ru/org/spo/kip/Pages/Home.aspx)
+ * (1 курс) [Moscow Technical University of Communications and Informatics (MTUCI)](https://mtuci.ru/)
  
  *Образование:* 
  * (СПО) Программирование в компьютерных системах
