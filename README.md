@@ -4,10 +4,13 @@
 
  *Имя:* Артём
 
- *Место обучения: (4 курс)* [Moscow Technical University of Communications and Informatics (MTUCI)](https://mtuci.ru/)
+ *Место обучения: 
+ * (4 курс)* [Колледж информатики и программирования Финансового университета при Правительстве Российской Федерации](http://www.fa.ru/org/spo/kip/Pages/Home.aspx)
+ * (1 курс)* [Moscow Technical University of Communications and Informatics (MTUCI)](https://mtuci.ru/)
  
- *Образование:* (СПО) Программирование в компьютерных системах
-
+ *Образование:* 
+ * (СПО) Программирование в компьютерных системах
+ * (Бакалавриат) Информационные системы и сетевые технологии
 ---
 ## Проекты
 * Курсовая-Дипломная работа [Месенджер LiteCall](https://github.com/Code-Nostra/LiteCall)
@@ -48,7 +51,7 @@
 
 
  ![Github](https://img.shields.io/badge/-Git-1C1C22?style=for-the-badge&logo=git&color=32409A)
-* Работа из под VS19
+* Работа из под VS22
 * Работа через Git Bash 
 
 
