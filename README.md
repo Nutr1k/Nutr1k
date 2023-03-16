@@ -1,5 +1,3 @@
-
-![Logo](https://raw.githubusercontent.com/Code-Nostra/Code-Nostra/main/Assets/collage.png)
 ## Краткая сводка
 
  *Имя:* Артём
