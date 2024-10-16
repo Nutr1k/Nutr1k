@@ -11,11 +11,11 @@
  * (Бакалавриат) Информационные системы и сетевые технологии
 ---
 ## Проекты
-* Курсовая-Дипломная работа [Месенджер LiteCall](https://github.com/Code-Nostra/LiteCall)
-* [Практические работы за 3 курс .Net](https://github.com/Code-Nostra/Praktika3Kurs)
-* [Практические работы за 4 курс .Net](https://github.com/Code-Nostra/Praktika4Kurs)
-* [Практические работы за 4 курс JS](https://github.com/Code-Nostra/Praktika4Kurs)
-* [Список покупок .Net](https://github.com/Code-Nostra/Spisok)
+* Курсовая-Дипломная работа [Месенджер LiteCall](https://github.com/Nutr1k/LiteCall)
+* [Практические работы за 3 курс .Net](https://github.com/Nutr1k/Praktika3Kurs)
+* [Практические работы за 4 курс .Net](https://github.com/Nutr1k/Praktika4Kurs)
+* [Практические работы за 4 курс JS](https://github.com/Nutr1k/Praktika4Kurs)
+* [Список покупок .Net](https://github.com/Nutr1k/Spisok)
 ---
 ## Языки программирования
 * С#
