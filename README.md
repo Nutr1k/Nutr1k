@@ -1,10 +1,13 @@
+![Bobr](https://github.com/user-attachments/assets/2852e7ca-d986-4635-98a2-ff95da70f35f)
+
+
 ## Краткая сводка
 
  *Имя:* Артём
 
  *Место обучения: 
  * (4 курс) [Колледж информатики и программирования Финансового университета при Правительстве Российской Федерации](http://www.fa.ru/org/spo/kip/Pages/Home.aspx)
- * (1 курс) [Moscow Technical University of Communications and Informatics (MTUCI)](https://mtuci.ru/)
+ * (2 курс) [Московский Технический Университет Связи и Информатики](https://mtuci.ru/)
  
  *Образование:* 
  * (СПО) Программирование в компьютерных системах
