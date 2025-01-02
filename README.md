@@ -88,12 +88,9 @@
 
 ---
 ## **Связь со мной**
-[![Артём](https://img.shields.io/badge/-Артём-1C1C22?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/id506987182)
+[![Артём](https://img.shields.io/badge/-Артём-1C1C22?style=for-the-badge&logo=telegram)](https://t.me/artemK6484)
 
 ---
 
-## **Ремарка**
- ### Все сказанное выше относится и к моему партнеру по практическим работам:
 
-[![Константин](https://img.shields.io/badge/-Константин-1C1C22?style=for-the-badge&logo=vk&logoColor=red)](https://vk.com/jessnjake)
 
