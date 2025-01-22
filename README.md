@@ -58,10 +58,14 @@
              src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=for-the-badge&logo=ASP.NET Core&logoColor=white"/></a>
     <a href="#">
         <img alt="Entity%20Fraemwork%20Core"
-             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Entity%20Fraemwork&logoColor=green"></a>
+             src="https://img.shields.io/badge/Entity_Framework-%236DA04B.svg?style=for-the-badge&logo=.net&logoColor=white"></a>
     <a href="#">
     <img alt="WCF"
          src="https://img.shields.io/badge/WCF-%230078D7.svg?style=for-the-badge&logo=&logoColor=white">
+    <a href="#">
+    <img alt="SignalR"
+         src="https://img.shields.io/badge/SignalR-%23022E33.svg?style=for-the-badge&logo=.net&logoColor=white">
+    </a>
 </a>
       
 </div>
