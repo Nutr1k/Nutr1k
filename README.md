@@ -37,24 +37,34 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🧰 Frameworks</h3>
 
 ###
 
 <div align="left">
     <a href="#">
-        <img alt=".NET"
-             src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=&logoColor=white"></a>
-    <a>
-        <img alt="C#"
-             src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
-    <a href="#">
         <img alt="ASP.NET Core"
              src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=for-the-badge&logo=ASP.NET Core&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Entity%20Fraemwork%20Core"
+             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Entity%20Fraemwork&logoColor=green"></a>
     <a href="#">
 </div>
 
 ###
+
+### 🗄️ Databases
+
+<p>
+    <a>
+        <img alt="MongoDB"
+             src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+    <a>
+        <img alt="MS SQL SERVER"
+             src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&logo=mysql&logoColor=white"/></a>
+</p>
+###
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
