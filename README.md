@@ -49,8 +49,6 @@
         <img alt="C#"
              src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
     <a href="#">
-
-    <a href="#">
         <img alt="ASP.NET Core"
              src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=for-the-badge&logo=ASP.NET Core&logoColor=white"/></a>
     <a href="#">
