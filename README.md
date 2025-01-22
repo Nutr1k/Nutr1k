@@ -63,7 +63,17 @@
         <img alt="Microsoft SQL Server"
              src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&logo=mysql&logoColor=white"/></a>
 </p>
+
 ###
+
+### 👨‍💻 Programming Languages
+
+<p>   
+    <a>
+        <img alt="C#"
+             src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+    <a href="#">
+</p>
 
 
 <h3 align="left">🔥   My Stats :</h3>
