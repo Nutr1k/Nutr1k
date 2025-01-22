@@ -37,7 +37,18 @@
 
 ###
 
-<h3 align="left">🧰 Frameworks</h3>
+### 👨‍💻 Programming Languages
+
+<p>   
+    <a>
+        <img alt="C#"
+             src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+    <a href="#">
+</p>
+
+
+
+### 🧰 Frameworks
 
 ###
 
@@ -66,17 +77,12 @@
 
 ###
 
-### 👨‍💻 Programming Languages
-
-<p>   
-    <a>
-        <img alt="C#"
-             src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
-    <a href="#">
-</p>
 
 
-<h3 align="left">🔥   My Stats :</h3>
+
+<h3 align="left">🔥 My Stats :</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nutr1k&hide=javascript,css,scss,html&theme=tokyonight)
 
 ###
 
