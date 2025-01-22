@@ -8,6 +8,7 @@
 
 <div align="center">
   [!(https://img.shields.io/badge/-Артём-1C1C22?style=for-the-badge&logo=telegram)](https://t.me/artemK6484)
+  [![Artem](https://img.shields.io/badge/Artem-Servers-090909?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/id506987182)
 </div>
 
 ###
