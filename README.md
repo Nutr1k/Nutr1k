@@ -8,7 +8,7 @@
  * (4 курс) [Колледж информатики и программирования Финансового университета при Правительстве Российской Федерации](http://www.fa.ru/org/spo/kip/Pages/Home.aspx)
  * (2 курс) [Московский Технический Университет Связи и Информатики](https://mtuci.ru/)
 
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Nutr1k&hide=html,javascript,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Nutr1k)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Nutr1k&hide=html,scss,javascript,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Nutr1k)
  
  *Образование:* 
  * (СПО) Программирование в компьютерных системах
