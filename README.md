@@ -1,49 +1,70 @@
+
+
+<div align="center">
 <img src="https://github.com/user-attachments/assets/2852e7ca-d986-4635-98a2-ff95da70f35f" width="250">
+</div>
 
-## Краткая сводка
+###
 
- *Имя:* Артём
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
- *Место обучения: 
- * (4 курс) [Колледж информатики и программирования Финансового университета при Правительстве Российской Федерации](http://www.fa.ru/org/spo/kip/Pages/Home.aspx)
- * (2 курс) [Московский Технический Университет Связи и Информатики](https://mtuci.ru/)
+###
 
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Nutr1k&hide=html,scss,javascript,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Nutr1k)
- 
- *Образование:* 
- * (СПО) Программирование в компьютерных системах
- * (Бакалавриат) Информационные системы и сетевые технологии
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
-## Языки программирования
-* С#
+###
 
-## Навыки
+<h1 align="center">hey there 👋</h1>
 
- ![.Net](https://img.shields.io/badge/-Framework-1C1C22?style=for-the-badge&logo=.net&color=32409A)
-* Winforms
-* WPF
-* MVVM (в WPF проектах)
-* Entity framework 
-* Базовая работа с JS форматом
-* WCF
-* ASP.NET Core
-* ASP.NET Core SignalR
+###
 
----
+<h3 align="left">👩‍💻  About Me</h3>
 
-## **Языки и инструменты**
-![C#](https://img.shields.io/badge/-C_sharp-1C1C22?style=for-the-badge&logo=csharp)
-![JS](https://img.shields.io/badge/-JS-1C1C22?style=for-the-badge&logo=nodedotjs)
-![SQl](https://img.shields.io/badge/-SQL-1C1C22?style=for-the-badge&logo=Mysql)
-![.Net](https://img.shields.io/badge/-Framework-1C1C22?style=for-the-badge&logo=.net)
-![PlantUml](https://img.shields.io/badge/-PlantUml-1C1C22?style=for-the-badge&logo=PlantUml)
+###
 
----
-## **Связь со мной**
-[![Артём](https://img.shields.io/badge/-Артём-1C1C22?style=for-the-badge&logo=telegram)](https://t.me/artemK6484)
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
----
+###
 
+<h3 align="left">🛠 Language and tools</h3>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
