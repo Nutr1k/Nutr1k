@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://t.me/artemK6484">
-    <img src="https://img.shields.io/badge/-Artem-1C1C22?style=for-the-badge&logo=telegram" alt="Artem">
+    <img src="https://img.shields.io/badge/-Artem-1C1C22?style=for-the-badge&logo=telegram" alt="Artem" width="200">
   </a>
 </div>
 
