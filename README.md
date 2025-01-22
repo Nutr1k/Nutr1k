@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  [![](https://img.shields.io/badge/-Артём-1C1C22?style=for-the-badge&logo=telegram)](https://t.me/artemK6484)
+  [!(https://img.shields.io/badge/-Артём-1C1C22?style=for-the-badge&logo=telegram)](https://t.me/artemK6484)
 </div>
 
 ###
