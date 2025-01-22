@@ -29,14 +29,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
 ### 👨‍💻 Programming Languages
 
 <p>   
@@ -70,16 +62,16 @@
 </div>
 
 ###
-
+ 
 ### 🗄️ Databases
 
 <p>
     <a>
+       <img alt="Microsoft SQL Server"
+             src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&logo=mysql&logoColor=white"/></a>
+    <a>
         <img alt="MongoDB"
              src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-    <a>
-        <img alt="Microsoft SQL Server"
-             src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&logo=mysql&logoColor=white"/></a>
 </p>
 
 ###
