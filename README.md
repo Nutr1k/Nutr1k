@@ -60,12 +60,12 @@
         <img alt="Entity%20Fraemwork%20Core"
              src="https://img.shields.io/badge/Entity_Framework-%236DA04B.svg?style=for-the-badge&logo=.net&logoColor=white"></a>
     <a href="#">
-    <img alt="WCF"
-         src="https://img.shields.io/badge/WCF-%230078D7.svg?style=for-the-badge&logo=&logoColor=white">
+        <img alt="WCF"
+             src="https://img.shields.io/badge/WCF-%230078D7.svg?style=for-the-badge&logo=&logoColor=white"></a>
+    <a href="#">
     <img alt="SignalR"
-         src="https://img.shields.io/badge/SignalR-%23022E33.svg?style=for-the-badge&logo=&logoColor=white">
-    </a>
-</a>
+         src="https://img.shields.io/badge/SignalR-%23022E33.svg?style=for-the-badge&logo=&logoColor=white"></a>
+  </a>
       
 </div>
 
