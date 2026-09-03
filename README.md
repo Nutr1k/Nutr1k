@@ -45,18 +45,10 @@
 ###
 
 <div align="left">
-      <img alt="ASP.NET Core"
-         src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-
-    <img alt="Entity Framework Core"
-         src="https://img.shields.io/badge/Entity_Framework_Core-6DA04B?style=for-the-badge&logo=dotnet&logoColor=white"/>
-
-    <img alt="WCF"
-         src="https://img.shields.io/badge/WCF-0078D7?style=for-the-badge&logo=dotnet&logoColor=white"/>
-
-    <img alt="SignalR"
-         src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-      
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity_Framework_Core-6DA04B?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img alt="WCF" src="https://img.shields.io/badge/WCF-0078D7?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img alt="SignalR" src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 </div>
 
 ###
