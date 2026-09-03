@@ -45,9 +45,12 @@
 ###
 
 <div align="left">
-   <a href="#">
-        <img alt="ASP.NET Core"
-             src="https://img.shields.io/badge/ASP.NET_Core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
+  <a href="#">
+    <img
+        alt="ASP.NET Core"
+        src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
+    />
+</a>
     <a href="#">
         <img alt="Entity%20Fraemwork%20Core"
              src="https://img.shields.io/badge/Entity_Framework-%236DA04B.svg?style=for-the-badge&logo=.net&logoColor=white"></a>
