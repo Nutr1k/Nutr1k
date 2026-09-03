@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  <img src="https://profile-counter.glitch.me/Nutr1k/count.svg" />
+![](https://komarev.com/ghpvc/?username=Nutr1k)
 
 </div>
 
