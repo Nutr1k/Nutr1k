@@ -52,8 +52,9 @@
     />
 </a>
     <a href="#">
-        <img alt="Entity%20Fraemwork%20Core"
-             src="https://img.shields.io/badge/Entity_Framework-%236DA04B.svg?style=for-the-badge&logo=.net&logoColor=white"></a>
+        <img alt="Entity Framework Core"
+             src="https://img.shields.io/badge/Entity_Framework_Core-6DA04B?style=for-the-badge&logo=dotnet&logoColor=white"/>
+    </a>
     <a href="#">
         <img alt="WCF"
              src="https://img.shields.io/badge/WCF-%230078D7.svg?style=for-the-badge&logo=&logoColor=white"></a>
