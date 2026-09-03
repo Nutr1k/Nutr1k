@@ -82,9 +82,7 @@
 
 
 
-<h3 align="left">🔥 My Stats :</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nutr1k&hide=nunjucks,javascript,css,scss,html&theme=tokyonight)
 
 ###
 
