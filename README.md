@@ -46,7 +46,7 @@
 
 <div align="left">
     <a href="#">
-        <img alt="ASP.NET%20Core"
+        <img alt="ASP.NET Core"
              src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=for-the-badge&logo=ASP.NET Core&logoColor=white"/></a>
     <a href="#">
         <img alt="Entity%20Fraemwork%20Core"
